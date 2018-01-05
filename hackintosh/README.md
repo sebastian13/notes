@@ -16,6 +16,10 @@
 - Peripherals -> Super IO Configuration -> Serial Port: `Disabled`
 - Peripherals -> USB Configuration -> XHCI Hand-off: `Enabled`
 
+## Drivers
+
+- https://www.europe-canon.com/canon-pixma-ip3000-driver-download/
+
 ## References
 
 - http://hackintosher.com/guides/high-sierra-install-full-guide/
